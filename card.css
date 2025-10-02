@@ -6,6 +6,10 @@
     color: orangered;
     align-items: center;
 }
-.body{
+body{
     display: flex;
+    flex-wrap: wrap;
+}
+button{
+    background-color: orangered; 
 }
